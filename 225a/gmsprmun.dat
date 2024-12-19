@@ -1,0 +1,10 @@
+Input=/Users/chen/Desktop/APO/APO_v2.gms
+PageSize=0
+ScrDir=225a
+SysDir=/Library/Frameworks/GAMS.framework/Versions/48/Resources
+ScriptNext=225a/gamsnext.sh
+LogOption=3
+ErrMsg=1
+ErrorLog=99
+IDE=1
+LstTitleLeftAligned=1

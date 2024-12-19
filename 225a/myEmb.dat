@@ -1,0 +1,8 @@
+- ExcelReader:
+    file: /Users/chen/Desktop/APO/contribution_table_v6.xlsx
+    symbols:
+        - name: Property
+          range: Sheet1!B1:Q25
+          
+- GAMSWriter:
+    symbols: all 

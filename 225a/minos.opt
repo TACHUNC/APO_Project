@@ -1,0 +1,6 @@
+ Row tolerance   1.0000000000000000E-008
+ Optimality tolerance   9.9999999999999995E-007
+ Feasibility tolerance   9.9999999999999995E-007
+ Iteration Limit       10000
+ Superbasics limit          48
+ Hessian dimension          48

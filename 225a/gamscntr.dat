@@ -1,0 +1,204 @@
+53
+11 42 0 0 482  0.00000000000000E+0000 5  0.00000000000000E+0000 0 1
+44 12 0 0 30 20 24 0 0 0 0 0
+43 37 0 0 0 0 0 0
+861 112
+19 0 24 0 0 0 0 12 0 7
+0 0 0 0 0 0 0
+0 35 0
+370 159 20
+ 0.00000000000000E+0000  1.00000000000000E-0005 0
+0  0.00000000000000E+0000 0  0.00000000000000E+0000
+ 1.00000000000000E+0010 2147483647 0
+1001 1
+ 0.00000000000000E+0000 1 0 0  1.00000000000000E+0000 0 0 0 0  1.00000000000000E-0005 0
+1 100
+0 0 0 0 0
+ 0.00000000000000E+0000  0.00000000000000E+0000  0.00000000000000E+0000  0.00000000000000E+0000  0.00000000000000E+0000
+/Users/chen/Desktop/APO/225a/gamsmatr.dat
+/Users/chen/Desktop/APO/225a/gamsinst.dat
+/Users/chen/Desktop/APO/baron.opt
+/Users/chen/Desktop/APO/225a/gamsstat.dat
+/Users/chen/Desktop/APO/225a/gamssolu.dat
+
+/Users/chen/Desktop/APO/225a/gamsdict.dat
+3
+10:32:54
+11/24/24
+/Users/chen/Desktop/APO/
+/Library/Frameworks/GAMS.framework/Versions/48/Resources/
+/Users/chen/Desktop/APO/225a/
+32767 2147483647
+0 0 61 45619 45588 61837
+Course License                                 S240924|0002AO-GEN0
+Imperial College London, Centre for Process Systems Engineering  0
+2001030601ATBACOCTCPDIIPKNM5SBSNXPCLGL                           0
+1 1 1 0
+225a/gmsprmun.dat
+15 44 3
+LP          10 0
+MIP         10 0
+RMIP        10 0
+NLP         5 0
+MCP         35 0
+MPEC        34 0
+RMPEC       34 0
+CNS         5 0
+DNLP        5 0
+RMINLP      5 0
+MINLP       14 3
+QCP         5 0
+MIQCP       39 0
+RMIQCP      5 0
+EMP         24 0
+ALPHAECP    11 5 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0
+gmsecpus.run
+gmsecpux.out
+ANTIGONE    2011 5 1 0 0 0 1 0 0 0 1 1 1 1 1 1 1 0
+gmsgenus.run
+gmsgenux.out
+BARON       1001 5 1 1 1 1 1 0 0 0 1 1 1 1 1 1 1 0
+gmsba_us.run
+gmsba_ux.out
+CBC         2011 5 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+gmsgenus.run
+gmsgenux.out
+CONOPT      1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 0 1 0
+gmsgenus.run
+gmsgenux.out
+CONOPT3     1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 0 1 0
+gmsgenus.run
+gmsgenux.out
+CONOPT4     1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 0 1 0
+gmsgenus.run optconopt.def
+gmsgenux.out
+CONVERT     103011 5 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+gmsgenus.run optconvert.def
+gmsgenux.out
+COPT        1011 5 1 1 1 1 0 0 0 0 0 0 0 0 1 1 1 0
+gmsgenus.run
+gmsgenux.out
+CPLEX       2011 5 1 1 1 1 0 0 0 0 0 0 0 0 1 1 1 0
+gmsgenus.run
+gmsgenux.out
+DE          102011 5 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+gmsgenus.run
+gmsgenux.out
+DECISC      2011 5 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+gmsdecus.run optdecis.def
+DECISM      2011 5 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+gmsdemus.run optdecis.def
+DICOPT      1 5 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0
+gmsdi_us.run
+gmsdi_ux.out
+EXAMINER    103011 5 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 0
+gmsgenus.run
+gmsgenux.out
+EXAMINER2   103011 5 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 0
+gmsgenus.run optexaminer.def
+gmsgenux.out
+GAMSCHK     103011 5 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 0
+gmsck_us.run
+gmsck_ux.out
+GLOMIQO     2011 5 1 0 0 0 1 0 0 0 1 1 1 1 1 1 1 0
+gmsgenus.run
+gmsgenux.out
+GUROBI      11 5 1 1 1 1 1 0 0 0 0 1 1 1 1 1 1 0
+gmsgenus.run
+gmsgenux.out
+GUSS        1001 5 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 0
+gmsgenus.run
+gmsgenux.out
+HIGHS       11 5 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+gmsgenus.run
+gmsgenux.out
+IPOPT       11 5 1 1 0 1 1 0 0 0 1 1 1 0 1 0 1 0
+gmsgenus.run
+gmsgenux.out
+IPOPTH      11 5 1 1 0 1 1 0 0 0 1 1 1 0 1 0 1 0
+gmsgenus.run optipopt.def
+gmsgenux.out
+JAMS        101011 5 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+gmsja_us.run
+gmsja_ux.out
+KESTREL     103010 5 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+gmske_us.run
+KNITRO      103011 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 0
+gmsgenus.run
+gmsgenux.out
+LINDO       1 5 1 1 1 1 1 0 0 0 0 1 1 1 1 1 1 1
+gmsgenus.run
+gmsgenux.out
+LINDOGLOBAL 1 5 1 1 1 1 1 0 0 0 0 1 1 1 1 1 1 0
+gmsgenus.run
+gmsgenux.out
+LOGMIP      101011 5 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+gmsja_us.run optjams.def
+gmsja_ux.out
+MILES       103001 5 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+gmsmceus.run
+gmsmceux.out
+MINOS       1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 0 1 0
+gmsgenus.run
+gmsgenux.out
+MOSEK       11 5 1 1 1 1 1 0 0 0 0 1 1 1 1 1 1 0
+gmsgenus.run
+gmsgenux.out
+MPSGE       100001 5 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+gmsgewus.run
+gmsgewux.out
+NLPEC       103001 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0
+gmscvnus.run
+gmscvnux.out
+PATH        103001 5 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0
+gmsgenus.run
+gmsgenux.out
+PATHNLP     11 5 1 1 0 1 1 0 0 0 0 1 1 0 1 0 1 0
+gmsptnus.run
+gmsptnux.out
+QUADMINOS   1 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+gmsgenus.run optminos.def
+gmsgenux.out
+RESHOP      103011 5 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+gmsgenus.run
+gmsgenux.out
+SBB         11 5 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0
+gmssb_us.run
+gmssb_ux.out
+SCIP        2001 5 1 0 1 0 1 0 0 0 1 1 1 1 1 1 1 0
+gmsgenus.run
+gmsgenux.out
+SHOT        1001 5 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0
+gmsgenus.run
+gmsgenux.out
+SNOPT       1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 0 1 0
+gmsgenus.run
+gmsgenux.out
+SOPLEX      11 5 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+gmsgenus.run
+gmsgenux.out
+XPRESS      11 5 1 1 1 1 1 0 0 0 1 1 1 1 1 1 1 0
+gmsgenus.run
+gmsgenux.out
+24533942060606060606060606060606060606                           0
+DCE3012      g 7                               A Course          0
+License Admin: Claire S. Adjiman, c.adjiman@imperial.ac.uk       0
+                                                                 0
+                                                                 0
+1 /Users/chen/Library/Application Support/GAMS/gamslice.txt
+1 /Library/Frameworks/GAMS.framework/Versions/48/Resources/gmscmpun.txt
+/Users/chen/Desktop/APO/APO_v2.dat
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0  1.00000000000000E+0000 0 105
+0 0 0
+0 0 0 1 0
+/Users/chen/Desktop/APO/APO_Project.dylib
+/Users/chen/Desktop/APO/225a/sbbinfo.dat
+/Users/chen/Desktop/APO/225a/gamscntr.dat
+/Users/chen/Desktop/APO/
+dat
+ 1.00000000000000E+0299
+
+
+/Users/chen/Desktop/APO/APO_v2.gms
+ 8.61000000000000E+0002  1.12000000000000E+0002
